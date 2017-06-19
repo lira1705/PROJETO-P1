@@ -1,0 +1,22 @@
+26042017 1400 (A) completar 1 ano @casa +namoro 
+17062017 1400 (A) Mostrar o projeto a Maiara @casa +projeto 
+(A) comer 
+(C) Estudar ISI +facul 
+(D) Viver a vida loucamente @mundo 
+23062017 0400 acordar +saojoao 
+23062017 0500 ir para triunfo @triunfo +saojoao 
+23062017 1100 chegar em casa @triunfo +saojoao 
+0100 (A) dormir 
+1000 acordar 
+1300 almoçar 
+22051996 (A) bom dia  +oi
+12052017 (A) falar com mari  
+12062017 0359 (A) Chorar por causa do fim do evento de Overwatch  @casa +Overwatch
+14112019 2300 (B) me divertir muito no shopping  @casa +diversão
+14112019 2300 (C) Fazer algo  
+14112019 2300 (E) Fazer algo em casa  @casa 
+22052018 2210 (I) jogar algo  +vida 
+2230 (A) remédio  
+17051996 dia que nasci  @hospital +Finally    
+15092020 2359 assistir um filme  
+Comer menos 
